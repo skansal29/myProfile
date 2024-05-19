@@ -1,0 +1,39 @@
+[
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Happiest Minds Technologies",
+      "startDate": "Aug, 2022",
+      "endDate": "Present",
+      "experiences": [
+        "Collaborated across cross-functional teams to deliver impactful projects",
+        "Delivered exceptional client support by promptly addressing concerns and implementing requested changes or enhancements to software solutions.",
+        "Developed CI/CD pipeline to facilitate seamless code deployment via Git",
+        "Ensured code quality through unit testing and analysis tools like Checkmarx, SonarQube, Aqua Scan"
+      ],
+      "imageSrc": "history/happiestmindslogo.png"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organisation": "Infosys",
+      "startDate": "Aug, 2019",
+      "endDate": "Aug, 2022",
+      "experiences": [
+        "Designed & Developed numerous responsive web pages",
+        "Full stack development initiatives of a couple of web applications.",
+        "Mentored junior developers, fostering professional growth and enhancing team productivity"
+      ],
+      "imageSrc": "history/infosyslogo.png"
+    },
+    {
+      "role": "Intern",
+      "organisation": "Infosys",
+      "startDate": "Jan, 2019",
+      "endDate": "May, 2019",
+      "experiences": [
+        "Worked on Movie Booking app",
+        "Helped create UI components",
+        "Worked on UI-API integration"
+      ],
+      "imageSrc": "history/infosyslogo.png"
+    }
+  ]

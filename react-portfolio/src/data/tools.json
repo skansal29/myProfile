@@ -1,0 +1,18 @@
+[
+    {
+        "title": "VS Code",
+        "imageSrc": "tools/vscode.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "tools/git.png"
+    },
+    {
+        "title": "Postman",
+        "imageSrc": "tools/postman.png"
+    },
+    {
+        "title": "Chrome Devtools",
+        "imageSrc": "tools/chromedevtools.svg"
+    }
+]

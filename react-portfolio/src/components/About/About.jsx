@@ -12,7 +12,7 @@ export const About = () => {
                         <img src={getImageUrl("about/cursorIcon.png")} alt="cursor icon" />
                         <div className={styles.aboutItemText}>
                             <h3>Frontend Developer</h3>
-                            <p>I am a front end developer with experience in building responsive and optimised sites.</p>
+                            <p>I am a web developer with experience in building responsive and optimised sites.</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
